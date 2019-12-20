@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package curso_java;
+package fundamentos;
 
 /**
  VECTORES O ARREGLOS de cualquier tipo de dato

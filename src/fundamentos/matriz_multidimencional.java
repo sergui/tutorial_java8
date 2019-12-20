@@ -1,7 +1,7 @@
 /*
  matriz de matrices
  */
-package curso_java;
+package fundamentos;
 
 /**
  matriz tridimencional tipo[fila][columna][profundidad]
